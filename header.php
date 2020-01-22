@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <h1>課題電子ビジネス専門学校（課題）</h1>
+    <h1><a href="/">課題電子ビジネス専門学校（仮）</a></h1>
     <?php
     $args = [
         'theme_location' => 'header-navi',
