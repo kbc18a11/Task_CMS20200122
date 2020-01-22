@@ -19,4 +19,8 @@ function inputsjs(): void
 }
 add_action('wp_enqueue_scripts', 'inputsjs');
 
-
+/**
+ * メニュー関係
+ */
+add_theme_support('menus');
+register_nav_menu('header-navi','ヘッダーナビ');
