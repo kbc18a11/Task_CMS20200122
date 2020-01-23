@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    <img src="./img/pic_logo.png" alt="">
     <h1><a href="/">課題電子ビジネス専門学校（仮）</a></h1>
     <?php
     $args = [
